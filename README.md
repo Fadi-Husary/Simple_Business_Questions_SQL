@@ -3,6 +3,6 @@
 This project displays simple SQL and bussiness analyst skills. I analyze data covering music genre, artist, albums sold, etc., using SQL.
 
 #### Installations:
--Juptyer Lab
--Python
+- Juptyer Lab
+- Python
 - sqlite
